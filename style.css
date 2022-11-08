@@ -1,0 +1,47 @@
+.btn-img {
+  width:64px;
+  height: 64px;
+  
+}
+
+.ft-btn-img {
+  width:64px;
+  height: 64px;
+  position: relative;
+
+}
+
+#img-int {
+  height: 200px;
+  width: 200px;
+}
+#bck {
+  position:relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+  position: relative;
+  top: 40%;
+  font-family: 'Anton', sans-serif;
+}
+
+#arw 
+{
+  width:64px;
+  height: 64px;
+  position: relative;
+  top: 40%;
+  left: 47%;
+}
+
+#foot {
+  position: static;
+  height: 250px;
+}
+
+#copy {
+  position: relative;
+  top: 90%;
+}
